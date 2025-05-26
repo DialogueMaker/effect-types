@@ -1,10 +1,6 @@
 --!strict
 
-local StarterPlayer = game:GetService("StarterPlayer");
-local StarterPlayerScripts = StarterPlayer.StarterPlayerScripts;
-
-local DialogueClientScript = StarterPlayerScripts.DialogueClientScript;
-local React = require(DialogueClientScript.Packages.react);
+local React = require(script.Parent.react);
 
 export type Bounds = {
   width: number;

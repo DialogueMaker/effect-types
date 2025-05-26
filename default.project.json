@@ -1,20 +1,6 @@
 {
   "name": "effect-types",
   "tree": {
-    "$className": "DataModel",
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-        "DialogueClientScript": {
-          "$className": "LocalScript",
-          "Packages": {
-            "$path": "Packages",
-            "$ignoreUnknownInstances": true,
-            "effect-types": {
-              "$path": "src"
-            }
-          }
-        }
-      }
-    }
+    "$path": "src"
   }
 }
