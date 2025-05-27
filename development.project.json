@@ -1,8 +1,8 @@
 {
-  "name": "effect-types",
+  "name": "effect_types",
   "tree": {
     "$className": "DataModel",
-    "effect-types": {
+    "effect_types": {
       "$path": "Packages",
       "$ignoreUnknownInstances": true,
       "effect-types": {
