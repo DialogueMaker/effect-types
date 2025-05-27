@@ -3,10 +3,9 @@
   "tree": {
     "$className": "DataModel",
     "effect_types": {
-      "$path": "Packages",
-      "$ignoreUnknownInstances": true,
-      "effect-types": {
-        "$path": "src"
+      "$path": "src",
+      "roblox_packages": {
+        "$path": "roblox_packages"
       }
     }
   }
