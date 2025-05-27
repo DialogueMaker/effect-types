@@ -3,7 +3,7 @@
   "tree": {
     "$className": "DataModel",
     "effect_types": {
-      "$path": "src",
+      "$path": "dist",
       "roblox_packages": {
         "$path": "roblox_packages"
       }
