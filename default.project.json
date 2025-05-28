@@ -1,6 +1,6 @@
 {
   "name": "effect_types",
   "tree": {
-    "$path": "src"
+    "$path": "dist"
   }
 }

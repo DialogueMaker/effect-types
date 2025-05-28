@@ -30,9 +30,11 @@ default = "https://github.com/UpliftGames/wally-index"
 roblox_sync_config_generator = ".pesde/scripts/roblox_sync_config_generator.luau"
 sourcemap_generator = ".pesde/scripts/sourcemap_generator.luau"
 
-[dependencies]
-react = { wally = "jsdotlua/react", version = "^17.2.1" }
-
 [dev_dependencies]
 scripts = { name = "pesde/scripts_rojo", version = "^0.1.0", target = "lune" }
 rojo = { name = "pesde/rojo", version = "^7.4.4", target = "lune" }
+darklua = { name = "pesde/darklua", version = "^0.16.0", target = "lune" }
+luau_lsp = { name = "pesde/luau_lsp", version = "^1.47.0", target = "lune" }
+
+[dependencies]
+react = { wally = "jsdotlua/react", version = "^17.2.1" }
