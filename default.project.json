@@ -1,6 +1,13 @@
 {
-  "name": "effect_types",
   "tree": {
-    "$path": "dist"
+    "$className": "Folder",
+    "roblox_packages": {
+      "$path": {
+        "optional": "roblox_packages"
+      }
+    },
+    "src": {
+      "$path": "src"
+    }
   }
 }
